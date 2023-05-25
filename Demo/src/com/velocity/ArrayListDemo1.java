@@ -12,6 +12,10 @@ public static void main (String[]args) {
 	Iterator<String>itr=namelist.iterator();
 	while(itr.hasNext()) {
 		System.out.println(itr.next());
+		System.out.println("vd");
+		System.out.println("sd");
+		System.out.println("cd");
+		System.out.println("vd");
 	}
 }
 }
